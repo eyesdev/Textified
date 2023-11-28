@@ -1,0 +1,2 @@
+This is a simple text editor.
+Learn more in readme.md
